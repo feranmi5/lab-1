@@ -13,4 +13,4 @@ Please refer to your lab instructions for definitive directions. In general, clo
 
 ## link to website
 
-https://feranmi5.github.io/lab-1/- link
+https://feranmi5.github.io/lab-1/ - link
